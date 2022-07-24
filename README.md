@@ -1,2 +1,3 @@
-# wily-v2
-New version of Wily app
+# Wily ( e-library )
+
+Wily is innovative library management system for a low income school that cannot afford a librarian.
