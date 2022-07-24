@@ -35,6 +35,7 @@ yarn start -- --reset-cache
 # or 
 expo start -c
 
+```
 
 ## Folder structure
 
@@ -57,6 +58,6 @@ password : 123456
 ![Transaction Screen](https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/transactions_screen.png)
 
 ### Search Screen
-![Transaction Screen](https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/search_screen.png)
+![Search Screen](https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/search_screen.png)
 
 
