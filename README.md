@@ -53,12 +53,11 @@ password : 123456
 ```
 
 #### Login Screen
-![Login Screen][[https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/login_screen.png|width=100px]]
+<img src="https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/login_screen.png" width="200" height="400" alt="Login screen"/>
 
 ### Transactions Screen
-![Transaction Screen][[https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/transactions_screen.png|width=100px]]
+<img src="https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/transactions_screen.png" width="200" height="400" alt="Transactions screen" />
 
 ### Search Screen
-![Search Screen][[https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/search_screen.png|width=100px]]
-
+<img src="https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/search_screen.png" width="200" height="400" alt="Search screen" />
 
