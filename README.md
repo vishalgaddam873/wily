@@ -42,9 +42,9 @@ expo start -c
 This template follows a very simple project structure:
 
 - `assets`: Asset folder to store all images, vectors, etc.
-- `components`: Folder to store any common component that you use through your app (such as a generic button)
-- `screens`: Folder that contains all your application screens/features.
-- `App.js`: Main component that starts your whole app.
+- `components`: Folder to store any common component that use through the app
+- `screens`: Folder that contains all application screens/features.
+- `App.js`: Main component that starts whole app.
 
 ### Login Credentials
 ```
