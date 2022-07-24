@@ -47,9 +47,10 @@ This template follows a very simple project structure:
 - `App.js`: Main component that starts your whole app.
 
 ### Login Credentials
-
+```
 email id : example@wily.com
 password : 123456
+```
 
 #### Login Screen
 ![Login Screen](https://raw.githubusercontent.com/vishalgaddam873/wily/main/assets/login_screen.png)
